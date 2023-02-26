@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DSA-master/DSA-master.iml" filepath="$PROJECT_DIR$/DSA-master/DSA-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA_QA/DSA_QA.iml" filepath="$PROJECT_DIR$/DSA_QA/DSA_QA.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA_assignment.iml" filepath="$PROJECT_DIR$/.idea/DSA_assignment.iml" />
-      <module fileurl="file://$PROJECT_DIR$/assingment/assingment.iml" filepath="$PROJECT_DIR$/assingment/assingment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI/GUI.iml" filepath="$PROJECT_DIR$/GUI/GUI.iml" />
     </modules>
   </component>
 </project>
